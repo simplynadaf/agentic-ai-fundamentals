@@ -6,9 +6,9 @@
 
 ## 🎯 The Story: Why Do We Need AI Agents?
 
-### Meet Arjun — A Developer Tired of Job Hunting
+### Meet Brian — A Developer Tired of Job Hunting
 
-Arjun spends 15+ hours every week manually searching jobs, tailoring resumes, and writing cover letters — one by one. With a Job Application Agent, he gives one goal and the agent searches 5 platforms, filters matches, tailors his resume for each, and delivers ready-to-submit applications in 3 minutes.
+Brian spends 15+ hours every week manually searching jobs, tailoring resumes, and writing cover letters — one by one. With a Job Application Agent, he gives one goal and the agent searches 5 platforms, filters matches, tailors his resume for each, and delivers ready-to-submit applications in 3 minutes.
 
 Now let's understand **how** this works under the hood. 👇
 
