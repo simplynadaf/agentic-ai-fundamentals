@@ -37,10 +37,11 @@ If you've used ChatGPT and wondered *"what's the difference between this and an 
 
 New to AI agents? Start here:
 
-1. **[agent-fundamentals.md](./agent-fundamentals.md)** — Read sections 1-8 first (core concepts)
-2. Then section 15 — ChatGPT vs Agents (the "aha" moment)
-3. Then sections 9-13 — RAG, Memory, Multi-Agent, MCP, Cost
-4. Finally sections 16-20 — Production topics
+1. **[agent-fundamentals.md](./agent-fundamentals.md)** — Start with the story at the top (Rahul's job hunt)
+2. Then sections 1-8 (core concepts)
+3. Then section 15 — ChatGPT vs Agents (the "aha" moment)
+4. Then sections 9-13 — RAG, Memory, Multi-Agent, MCP, Cost
+5. Finally sections 16-20 — Production topics
 
 ---
 
