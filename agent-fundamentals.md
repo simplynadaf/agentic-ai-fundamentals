@@ -6,83 +6,9 @@
 
 ## 🎯 The Story: Why Do We Need AI Agents?
 
-### Meet Rahul — A Software Developer Looking for a New Job
+### Meet Arjun — A Developer Tired of Job Hunting
 
-Rahul is a Senior Python developer. He's tired of his current job and wants to switch. Here's what his job hunt looks like **today**:
-
-**The Old Way (Manual):**
-
-```
-Monday 9 PM:    Opens LinkedIn, Naukri, Indeed — searches "Senior Python Developer"
-                Gets 200+ results. Starts scrolling...
-
-Monday 10 PM:   Finds 5 interesting jobs. Opens each one. Reads requirements.
-                Realizes 2 don't match his experience. Down to 3.
-
-Monday 11 PM:   Opens his resume. Starts tailoring it for Job #1.
-                Changes summary, reorders skills, adjusts experience bullets.
-                Writes a cover letter. Submits.
-
-Tuesday 9 PM:   Does the same for Job #2. Another hour gone.
-
-Wednesday:      Job #3. Same process. He's exhausted.
-
-After 2 weeks:  Applied to 8 jobs. Mass-applied to 20 more with a generic resume.
-                Got 1 callback. The generic applications? All rejected.
-```
-
-**Time spent:** ~15 hours over 2 weeks for 8 quality applications.
-
-**The problem is clear:**
-- Searching is repetitive and boring
-- Tailoring resumes takes forever but makes a huge difference
-- Cover letters feel like copy-paste torture
-- By the time you find good jobs, you're too tired to apply well
-
----
-
-### Now Imagine: Rahul Has a Job Application Agent
-
-```
-Rahul: "Find Senior Python roles in Bangalore, 20-35 LPA, 
-        remote-friendly, no startups under 2 years old. 
-        Here's my resume."
-
-Agent thinking...
-  → Searches LinkedIn, Naukri, Indeed, company career pages
-  → Finds 47 matching jobs
-  → Filters: removes mismatches, checks company age, verifies remote policy
-  → Down to 12 strong matches
-  → Reads each job description carefully
-  → Tailors Rahul's resume for each role (highlights relevant skills)
-  → Writes personalized cover letters mentioning company-specific details
-  → Ranks jobs by match score
-
-Agent: "Found 12 roles that match. Here are the top 5:
-        1. Flipkart — Senior Python Engineer (92% match) — resume tailored ✅
-        2. Razorpay — Backend Lead (88% match) — resume tailored ✅
-        3. ...
-        
-        Ready to submit? Or want me to adjust anything first?"
-```
-
-**Time spent:** 2 minutes to give the goal. Agent did 12+ hours of work.
-
----
-
-### What Just Happened?
-
-The agent did exactly what Rahul would do — but faster, better, and without getting tired:
-
-| Step | Rahul (Manual) | Agent (Automated) |
-|------|---------------|-------------------|
-| Search jobs | 2 hours scrolling | 30 seconds across 5 platforms |
-| Filter matches | 1 hour reading descriptions | Instant — compares against resume |
-| Tailor resume | 1 hour per job | 10 seconds per job |
-| Write cover letter | 30 min per job | 15 seconds per job |
-| Total for 12 jobs | ~40 hours | ~3 minutes |
-
-**This is what AI agents do.** They take a goal, break it into steps, use tools, and execute — just like a human would, but without the fatigue, boredom, or mistakes.
+Arjun spends 15+ hours every week manually searching jobs, tailoring resumes, and writing cover letters — one by one. With a Job Application Agent, he gives one goal and the agent searches 5 platforms, filters matches, tailors his resume for each, and delivers ready-to-submit applications in 3 minutes.
 
 Now let's understand **how** this works under the hood. 👇
 
